@@ -1,4 +1,3 @@
-<img alt="Coding" height="430" src="https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif">
 <h1 align="center">Hi 👋, I'm Wesley Fernandes</h1>
 <h3 align="center">A Full stack developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*9m-WDdL_ji01bGbjEnutEw.gif">
